@@ -963,7 +963,7 @@
     (uuid 179c001d-ac29-4e34-ad76-bad17fa62990)
     (property "Reference" "J1" (id 0) (at 80.01 91.44 0))
     (property "Value" "Conn_01x02" (id 1) (at 83.82 88.9 0))
-    (property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal" (id 2) (at 81.28 86.36 0)
+    (property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal" (id 2) (at 81.28 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 81.28 86.36 0)
@@ -1234,7 +1234,7 @@
       (reference "D2") (unit 1) (value "15v") (footprint "Diode_THT:D_DO-27_P15.24mm_Horizontal")
     )
     (path "/179c001d-ac29-4e34-ad76-bad17fa62990"
-      (reference "J1") (unit 1) (value "Conn_01x02") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal")
+      (reference "J1") (unit 1) (value "Conn_01x02") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-5.0-H_1x02_P5.00mm_Horizontal")
     )
     (path "/ef06664d-39b2-4929-8de3-860fd81db3d0"
       (reference "J2") (unit 1) (value "Conn_01x01") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical")
